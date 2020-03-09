@@ -16,7 +16,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: 'Adam Hughes',
+      title: 'Adam J Hughes',
       headerLinks: [
         { title: 'Home', path: '/' },
         { title: 'About', path: '/about' },
