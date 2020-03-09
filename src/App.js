@@ -16,14 +16,14 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: 'Garrett Love',
+      title: 'Adam Hughes',
       headerLinks: [
         { title: 'Home', path: '/' },
         { title: 'About', path: '/about' },
         { title: 'Contact', path: '/contact' }
       ],
       home: {
-        title: 'Be Relentless',
+        title: 'Be Relentless!!',
         subTitle: 'Projects the make a difference',
         text: 'Checkout my projects below'
       },
